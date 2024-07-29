@@ -1,13 +1,11 @@
 
 # Retail Data Analysis
-
-This project analyzes customer demographics. The analysis aims to provide insights into customer segments, product preferences and purchasing behavior among different strata.
+This project simulates an analysis for a hypothetical clothing company, LO-KI, planning to start operations in the USA. The analysis utilizes a retail store dataset sourced from Kaggle, focusing on customer demographics. The primary goal is to provide valuable insights into customer segments, product preferences, and purchasing behaviors. These insights are crucial for understanding the market better and making data-driven decisions to guide the company's growth strategy.
 
 ## Project Structure
 - `data/`: Contains the dataset used for the analysis.
 - `queries/`: SQL queries for analyzing different aspects of customer demographics.
 - `results/screenshots/`: Screenshots of the query results.
-- `analysis/`: Detailed analysis and insights based on the queries.
 
 ## Data
 The dataset used for this analysis is `customer_data.csv`, originally sourced from Kaggle but it was cleaned, preprocessed using Python to fit the needs of the analysis process.
@@ -19,5 +17,5 @@ The SQL queries are located in the `queries/` directory:
 - `products_analysis.sql`: Includes SQL queries for handling product-related data.
 - `retail_brands_analysis.sql`: Contains SQL queries for managing and retrieving data related to brands.
   
-## Analysis and Insights
-Detailed analysis and insights can be found in the `analysis/` directory.
+## Conclusion
+This project provides a comprehensive analysis of the customer demographics and purchasing behaviors of a potential customer base for a new clothing retail startup. By leveraging these insights,LO-KI can strategically position itself in the market, tailor its product offerings, and optimize marketing efforts to align with customer preferences and trends.
