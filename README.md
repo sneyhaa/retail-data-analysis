@@ -14,10 +14,10 @@ The dataset used for this analysis is `customer_data.csv`, originally sourced fr
 
 ## Queries
 The SQL queries are located in the `queries/` directory:
-- `age_distribution.sql`: Age distribution of customers.
-- `gender_distribution.sql`: Gender distribution of customers.
-- `income_distribution.sql`: Income distribution of customers.
-- `geographic_distribution.sql`: Geographic distribution of customers.
-
+- `customer_demographics.sql`
+- `customer_lifetime_value_analysis.sql`
+- `products_analysis.sql`
+- `retail_brands_analysis.sql`
+  
 ## Analysis and Insights
 Detailed analysis and insights can be found in the `analysis/` directory.
