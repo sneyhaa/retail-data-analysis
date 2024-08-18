@@ -1,6 +1,6 @@
 
 # Retail Data Analysis
-This project simulates a research-focused analysis for a hypothetical clothing company planning to start operations in the USA. The analysis utilizes a retail store dataset sourced from Kaggle, focusing on customer demographics. The primary goal is to provide valuable insights into customer segments, product preferences, and purchasing behaviors. These insights are crucial for understanding the market better and making data-driven decisions to guide the company's growth strategy.
+This project simulates a research-focused analysis for a hypothetical clothing company planning. The analysis utilizes a retail store dataset sourced from Kaggle, focusing on customer demographics. The primary goal is to provide valuable insights into customer segments, product preferences, and purchasing behaviors. These insights are crucial for understanding the market better and making data-driven decisions to guide the company's growth strategy.
 
 ## Project Structure
 - `data/`: Contains the dataset used for the analysis.
